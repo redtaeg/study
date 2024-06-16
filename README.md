@@ -93,15 +93,17 @@
   <br>
 </p>
 
-### 자재관리
+### 관리자 기능
 <br>
 <p align="center">
   <br>
-    <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/229cf177-24a3-4798-afbe-5a577cefcc7a">
-    <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/cc1686ea-1fdd-4e35-98fd-26e6797cb7e9">
-    <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/629fb554-a1ac-43b9-a8b0-2933d3a98078">
-    <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/6976752c-6c11-425e-8202-dffd20c5f924">
-    <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/41ccdd2b-87cd-4248-8ee9-21d2c7156215">
+    <img src="https://github.com/redtaeg/study/assets/165256919/4c77d654-5cf0-4b3e-9e3f-dea095078b2b">
+    <img src="https://github.com/redtaeg/study/assets/165256919/17e8c583-a5ea-4191-ad57-abb624f45326">
+    <img src="https://github.com/redtaeg/study/assets/165256919/de49d9f1-4491-4fe8-ab0d-5b595805b58c">
+    <img src="https://github.com/redtaeg/study/assets/165256919/e391db8b-d796-44fb-b61f-4274789e90a0">
+    <img src="https://github.com/redtaeg/study/assets/165256919/bd69fd83-f75d-4893-9e8c-8aa41e56ff2d">
+    <img src="https://github.com/redtaeg/study/assets/165256919/e90c8f21-dc7d-4d69-a513-26d62f47ce52">
+
   <br>
 </p>
 
