@@ -112,8 +112,8 @@
 
 
 ## 주요 기능 및 문제 해결
-<br>
 ### 주요 기능
+<br>
 <p align="center">
   <br>
     <img src="https://github.com/redtaeg/study/assets/165256919/7e50c78d-d3b3-49bc-8aff-aa5142cf1a82">
@@ -124,7 +124,8 @@
     <img src="https://github.com/redtaeg/study/assets/165256919/00a4923c-f557-429c-8c1f-7ab14d83e98d">
 </p>
 <br>
- ## 문제 해결
+
+### 문제 해결 
  <p align="center">
       <img src="https://github.com/redtaeg/study/assets/165256919/956d3274-df30-4548-94c7-3615bf87668f">
     <img src="https://github.com/redtaeg/study/assets/165256919/6559de45-72e4-4a93-b78b-a575b16c4dc8">
