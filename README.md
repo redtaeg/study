@@ -7,7 +7,7 @@
 
 <p align="center">
   <br>
-  <img src="https://github.com/redtaeg/study/assets/165256919/a2f4e410-abc8-48c2-8802-f2ba1138f640">
+  <img src="https://github.com/redtaeg/study/assets/165256919/db5711d9-df87-4396-9767-8fd33950a8d6">
   <br>
 </p>
 
