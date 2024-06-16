@@ -43,9 +43,14 @@
 ## 프로젝트 수행 절차
 <p align="center">
   <br>
-  <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/eb8e53f9-93d4-4cc8-9434-8da3cc029934">
-    <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/5b5d7560-97f2-48a6-b039-c614bf593839">
-    <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/dd60343d-344b-4535-9e72-978256a4ba24">
+  <img src="https://github.com/redtaeg/study/assets/165256919/a1a88ea6-dd71-41c2-ad74-41b42a44241f">
+  <img src="https://github.com/redtaeg/study/assets/165256919/c2ea8fab-5cec-4955-8798-081b5263d6e1">
+  <img src="https://github.com/redtaeg/study/assets/165256919/bb1cdf24-1cf8-485d-8b3d-65e64cf19049">
+  <img src="https://github.com/redtaeg/study/assets/165256919/75800b98-fd51-4d99-a87d-b00afd22fc15">
+  <img src="https://github.com/redtaeg/study/assets/165256919/3250af90-ada6-4d3d-81a1-cd0554edd403">
+  <img src="https://github.com/redtaeg/study/assets/165256919/44b82d98-86f0-4f3a-b54e-da96940b6f4e">
+  <img src="https://github.com/redtaeg/study/assets/165256919/314a819f-3881-4d9b-8bf8-23c2c035d2a3">
+
   <br>
 </p>
 
