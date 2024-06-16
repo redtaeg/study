@@ -1,13 +1,13 @@
 
-# SOFT-SYNC
+# 운동이지
 
-<p>디지이노와의 협업을 진행하는 프로젝트 입니다. <br> 
-재고 발주 / 입고 / 출고 관리 프로그램을 만듭니다.</p>
-<p> 진행일자 2024.04.29~2024.06.14</p>
+<p>mit 첫번째 팀 프로젝트입니다. <br> 
+운동을 하고싶지만 시작하기 어려운 사람들을 위해 제작했습니다.</p>
+<p> 진행일자 2024.03.26~2024.05.02</p>
 
 <p align="center">
   <br>
-  <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/f27315be-b73f-4a20-983e-c4eaef4e28da">
+  <img src="[https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/f27315be-b73f-4a20-983e-c4eaef4e28da](https://github.com/redtaeg/study/assets/165256919/db5711d9-df87-4396-9767-8fd33950a8d6)">
   <br>
 </p>
 
