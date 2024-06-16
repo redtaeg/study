@@ -139,6 +139,7 @@
 ## 배운 점 & 아쉬운 점
   
 <p align="justify">
+<img src="https://github.com/redtaeg/study/assets/165256919/9efcf708-2563-4407-bb46-94ab1313564b">
 
 </p>
 
