@@ -68,31 +68,27 @@
   <br>
 </p>
 
-### 조달관리
+### 사용자기능
 <br>
 <p align="center">
   <br>
-  <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/9ac3dde3-d612-471c-81ac-5ecb3c8d4145">
-    <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/5cd60c73-3184-482f-9182-4653f5fbcc2a">
-    <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/41095449-aaa9-4273-b659-d006a3ee2739">
-      <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/c36fc063-75cd-40df-86a0-cc6117930df9">
-     <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/75ddd8c1-ead3-407c-8359-364009ac5fba">
-     <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/1f659248-d9bd-4eed-bbb2-f068e736bd9b">
+  <img src="https://github.com/redtaeg/study/assets/165256919/7f09e981-15be-4ab0-9c53-abcb0f7de284">
+  <img src="https://github.com/redtaeg/study/assets/165256919/e0822e30-e252-4d43-9af8-5dff667a4de4">
+  <img src="https://github.com/redtaeg/study/assets/165256919/c1a20844-c15b-4be7-b33e-585317fdbf7a">
+  <img src="https://github.com/redtaeg/study/assets/165256919/0dd3ff06-a47c-4656-b726-dc57cd48f6b6">
+
 
 
   <br>
 </p>
 
-### 발주관리
+### 트레이너 기능
 <br>
 <p align="center">
   <br>
-    <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/c5d96c62-1d56-4231-9259-56ce3c5d4969">
-  <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/8f9a5f7b-4cd2-4bf7-9001-8197fa2de407">
-    <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/66233fd4-e1eb-42ec-b7f6-59df11512fa1">
-      <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/e266c5a7-1dbe-4ad8-a1a8-6b7140f9c666">
-     <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/85ce0d31-1a7b-43dc-a311-5c7c4ad74e99">
-     <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/3f25fa74-538c-4c0b-9558-7a73266faf88">
+  <img src="https://github.com/redtaeg/study/assets/165256919/e137fe38-609e-4aa1-90e7-2eb9bc9b004a">
+  <img src="https://github.com/redtaeg/study/assets/165256919/09d44ec3-c8d8-4ac4-af2a-dfca0d48f1db">
+  <img src="https://github.com/redtaeg/study/assets/165256919/1f628bb3-c4fc-4105-a510-35e17989dfab">
 
   <br>
 </p>
