@@ -20,34 +20,23 @@
 <br>
 
 ## 프로젝트 소개
-[노션](https://complex-sneezeweed-b0d.notion.site/SOFT-SYNC-PROJECT-08bac4d1e9d248558070890c81ce30e3?pvs=4)
-[배포](http://192.168.35.8:9050/login)
-
-### 프로젝트 주제
-\- ERP 시스템 중 '자재구매조달시스템' 구현
+<img src="https://github.com/redtaeg/study/assets/165256919/f3180586-4fcc-4a22-bb17-2dde42ab7e14">
 
 ### 프로젝트 선정배경
-\- KDT : 기업 멘토링을 통한 기업 맞춤형 이론, 실무 중심 업무 프로세스 경험
-\- 경영 프로세스 정보화 운영 업무에 대해 Enterprise Architecture(EA)설계, 구축 활동을 이해하기 위하여 실제 운영 시스템을 개발  
+<img src="https://github.com/redtaeg/study/assets/165256919/50f7b98d-9322-480f-a67c-4dbfa6f6675d"> 
 
 
 <br>
 
 ## 기술 스택
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/jsp-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"/>
-<img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/JDBC-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
 <img src="https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black"/>
-<img src="https://img.shields.io/badge/filezilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white"/>
-<br>
-<img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
 <br>
 
