@@ -112,21 +112,24 @@
 
 
 ## 주요 기능 및 문제 해결
+<br>
+### 주요 기능
 <p align="center">
   <br>
-  ###주요 기능
     <img src="https://github.com/redtaeg/study/assets/165256919/7e50c78d-d3b3-49bc-8aff-aa5142cf1a82">
     <img src="https://github.com/redtaeg/study/assets/165256919/cbc80dbd-99cf-4f62-818c-4e26a9d36331">
     <img src="https://github.com/redtaeg/study/assets/165256919/fef980b8-3201-462d-ab59-3773c40f0709">
     <img src="https://github.com/redtaeg/study/assets/165256919/34389625-53c9-4ab4-bdde-2f5fb832ecaa">
     <img src="https://github.com/redtaeg/study/assets/165256919/41bd8b08-8c5e-4fc7-a99c-64cc6c2e9260">
     <img src="https://github.com/redtaeg/study/assets/165256919/00a4923c-f557-429c-8c1f-7ab14d83e98d">
+</p>
 <br>
- ##문제 해결
-    <img src="https://github.com/redtaeg/study/assets/165256919/956d3274-df30-4548-94c7-3615bf87668f">
-  <img src="https://github.com/redtaeg/study/assets/165256919/6559de45-72e4-4a93-b78b-a575b16c4dc8">
-  <br>
+ ## 문제 해결
+ <p align="center">
+      <img src="https://github.com/redtaeg/study/assets/165256919/956d3274-df30-4548-94c7-3615bf87668f">
+    <img src="https://github.com/redtaeg/study/assets/165256919/6559de45-72e4-4a93-b78b-a575b16c4dc8">
     <br>
+      <br>
 </p>
 
 <br>
