@@ -43,13 +43,10 @@
 ## 프로젝트 수행 절차
 <p align="center">
   <br>
-  <img src="https://github.com/redtaeg/study/assets/165256919/a1a88ea6-dd71-41c2-ad74-41b42a44241f">
-  <img src="https://github.com/redtaeg/study/assets/165256919/c2ea8fab-5cec-4955-8798-081b5263d6e1">
-  <img src="https://github.com/redtaeg/study/assets/165256919/bb1cdf24-1cf8-485d-8b3d-65e64cf19049">
-  <img src="https://github.com/redtaeg/study/assets/165256919/75800b98-fd51-4d99-a87d-b00afd22fc15">
-  <img src="https://github.com/redtaeg/study/assets/165256919/3250af90-ada6-4d3d-81a1-cd0554edd403">
-  <img src="https://github.com/redtaeg/study/assets/165256919/44b82d98-86f0-4f3a-b54e-da96940b6f4e">
-  <img src="https://github.com/redtaeg/study/assets/165256919/314a819f-3881-4d9b-8bf8-23c2c035d2a3">
+  <img src="https://github.com/redtaeg/study/assets/165256919/d65848b2-0e6b-4308-bc5d-e87a700693ab">
+  <img src="https://github.com/redtaeg/study/assets/165256919/76c84043-8226-4d5d-a8ca-a73af1375eb7">
+  <img src="https://github.com/redtaeg/study/assets/165256919/2e764b11-fe8d-469d-af95-0d709ee70e44">
+
 
   <br>
 </p>
@@ -60,10 +57,13 @@
 <br>
 <p align="center">
   <br>
-  <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/f0782da7-7076-474e-a7ad-fe82fb61cae5">
-    <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/499b9dc3-66df-4db6-aa12-14d7931d7903">
-    <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/784e7334-d475-4d5d-a3a2-27260f94952e">
-      <img src="https://github.com/SOFT-SYNC/SOFT-SYNC/assets/158006769/527f82aa-2a43-4377-8fca-804f24dc2dd0">
+  <img src="https://github.com/redtaeg/study/assets/165256919/a1a88ea6-dd71-41c2-ad74-41b42a44241f">
+  <img src="https://github.com/redtaeg/study/assets/165256919/c2ea8fab-5cec-4955-8798-081b5263d6e1">
+  <img src="https://github.com/redtaeg/study/assets/165256919/bb1cdf24-1cf8-485d-8b3d-65e64cf19049">
+  <img src="https://github.com/redtaeg/study/assets/165256919/75800b98-fd51-4d99-a87d-b00afd22fc15">
+  <img src="https://github.com/redtaeg/study/assets/165256919/3250af90-ada6-4d3d-81a1-cd0554edd403">
+  <img src="https://github.com/redtaeg/study/assets/165256919/44b82d98-86f0-4f3a-b54e-da96940b6f4e">
+  <img src="https://github.com/redtaeg/study/assets/165256919/314a819f-3881-4d9b-8bf8-23c2c035d2a3">
 
   <br>
 </p>
